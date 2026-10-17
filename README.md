@@ -100,7 +100,7 @@ For questions, feedback, or suggestions, please open an issue in this repository
 
 ## 🔒 Privacy Policy
 
-For information about how this website handles visitor information, please read our [Privacy Policy](https://thekingofancients.github.io/pipleline-511918/Privacy_Policy).
+For information about how this website handles visitor information, please read our [Privacy Policy](https://thekingofancients.github.io/pipleline-511918/Privacy_Policy.html).
 
 ---
 
