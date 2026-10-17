@@ -98,6 +98,10 @@ Specify the license for this project here, if applicable. If you intend to make 
 
 For questions, feedback, or suggestions, please open an issue in this repository or contact the project maintainer.
 
+## 🔒 Privacy Policy
+
+For information about how this website handles visitor information, please read our [Privacy Policy](https://thekingofancients.github.io/pipleline-511918/privacy.html).
+
 ---
 
 *Built and hosted with GitHub Pages.*
